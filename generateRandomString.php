@@ -1,3 +1,4 @@
+<?php
 /**
 * Name:  generateRandomString
 *
@@ -12,7 +13,8 @@
 * Requirements: n/a
 *
 */
-	
+class Generaterandomstring{
+
 	function test_function_post(){
 
 		$characters2 = str_replace('1', '','123456');// si 1 ay yung ie-except mo sa string
@@ -23,7 +25,7 @@
 		echo $rand2.'<br>';
 	}
 
-    private function _generateRandomString($characters, $array_length = 2) {
+	private function _generateRandomString($characters, $array_length = 2) {
 
 		$randomString_array = array();
 		for($i = 0; $i < $array_length; $i++){
@@ -42,4 +44,5 @@
 		}
 
 		return $randomString_array;
-    }
+	}
+}

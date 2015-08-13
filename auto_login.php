@@ -16,7 +16,7 @@ class Auto_login{
 	function test_function($user_id, $hash){
 		$this->users_model->auto_login($user_id, $hash);
 
-		redirect('http://myurlname.com', 'refresh');
+		redirect('http://myurlname.com', 'refresh'); //modify this
 	}
 
 	public function auto_login($user_id, $hash)

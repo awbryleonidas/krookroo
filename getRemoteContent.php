@@ -2,7 +2,7 @@
 /**
 * Name:  generateRandomString
 *
-* Author: 	Aubrey Leonidas
+* Author:	Aubrey Leonidas
 *			che.leonidas@gmail.com
 *			@awbryleonidas
 *

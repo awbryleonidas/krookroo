@@ -2,9 +2,9 @@
 /**
 * Name:  generateRandomString
 *
-* Author: Aubrey Leonidas
-*		  che.leonidas@gmail.com
-*         @awbryleonidas
+* Author:	Aubrey Leonidas
+*			che.leonidas@gmail.com
+*			@awbryleonidas
 *
 * Created:  08.12.2015
 *
